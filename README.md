@@ -1,2 +1,2 @@
 # Calculator_Java
-This is a Calculator Web App using Spring Boot.
+This is a Calculator Web App using Spring MVC and Thymeleaf.
