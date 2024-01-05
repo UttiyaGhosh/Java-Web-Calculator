@@ -1,4 +1,4 @@
-package com.ug.calculator;
+package com.ug.webCalculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

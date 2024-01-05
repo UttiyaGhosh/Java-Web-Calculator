@@ -1,7 +1,6 @@
-package com.ug.calculator.service;
+package com.ug.webCalculator.service;
 
 import org.springframework.stereotype.Service;
-import org.thymeleaf.util.StringUtils;
 
 import java.util.List;
 
